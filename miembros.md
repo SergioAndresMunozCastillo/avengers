@@ -14,6 +14,7 @@
 * Scarlet Witch
 * Spider Woman
 * Thor
+* Nicl Fury
 * Vision
 * Wasp
 * Antman
