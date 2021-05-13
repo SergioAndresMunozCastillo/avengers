@@ -1,3 +1,4 @@
 # Misiones
 
-Investigar a Doom.
+* Investigar a Doom.
+* Capturar a School red.
